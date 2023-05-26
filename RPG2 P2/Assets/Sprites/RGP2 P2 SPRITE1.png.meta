@@ -1,0 +1,3228 @@
+fileFormatVersion: 2
+guid: 824127481f298fb4faf9b8e59ff01f78
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5562982973395798166
+    second: RGP2 P2 SPRITE1_0
+  - first:
+      213: -1724121290070802059
+    second: RGP2 P2 SPRITE1_1
+  - first:
+      213: 3865732080761561234
+    second: RGP2 P2 SPRITE1_2
+  - first:
+      213: 5822072143217459259
+    second: RGP2 P2 SPRITE1_3
+  - first:
+      213: 1336413016055098712
+    second: RGP2 P2 SPRITE1_4
+  - first:
+      213: 3700490620646734445
+    second: RGP2 P2 SPRITE1_5
+  - first:
+      213: -9151749427680939079
+    second: RGP2 P2 SPRITE1_6
+  - first:
+      213: 4464512940351973162
+    second: RGP2 P2 SPRITE1_7
+  - first:
+      213: 7902699990310410304
+    second: RGP2 P2 SPRITE1_8
+  - first:
+      213: 5236584490108893620
+    second: RGP2 P2 SPRITE1_9
+  - first:
+      213: -8276832536800293084
+    second: RGP2 P2 SPRITE1_10
+  - first:
+      213: -191943166622895105
+    second: RGP2 P2 SPRITE1_11
+  - first:
+      213: -3995987439137960173
+    second: RGP2 P2 SPRITE1_12
+  - first:
+      213: 6058958938364110110
+    second: RGP2 P2 SPRITE1_13
+  - first:
+      213: 8699086936013279736
+    second: RGP2 P2 SPRITE1_14
+  - first:
+      213: 2206235042784912827
+    second: RGP2 P2 SPRITE1_15
+  - first:
+      213: -3753167204613421810
+    second: RGP2 P2 SPRITE1_16
+  - first:
+      213: 1560080322442303770
+    second: RGP2 P2 SPRITE1_17
+  - first:
+      213: 7558492122682544494
+    second: RGP2 P2 SPRITE1_18
+  - first:
+      213: 2515718248479347132
+    second: RGP2 P2 SPRITE1_19
+  - first:
+      213: 6668665643808179186
+    second: RGP2 P2 SPRITE1_20
+  - first:
+      213: -2902357096500985754
+    second: RGP2 P2 SPRITE1_21
+  - first:
+      213: -1192456559125888744
+    second: RGP2 P2 SPRITE1_22
+  - first:
+      213: 7125899297952342497
+    second: RGP2 P2 SPRITE1_23
+  - first:
+      213: -1918754310821667546
+    second: RGP2 P2 SPRITE1_24
+  - first:
+      213: 5150145300057111966
+    second: RGP2 P2 SPRITE1_25
+  - first:
+      213: 4452393568688684392
+    second: RGP2 P2 SPRITE1_26
+  - first:
+      213: -3633723221158976875
+    second: RGP2 P2 SPRITE1_27
+  - first:
+      213: 2448098536112951780
+    second: RGP2 P2 SPRITE1_28
+  - first:
+      213: -6709549748998008139
+    second: RGP2 P2 SPRITE1_29
+  - first:
+      213: -2936739939580996167
+    second: RGP2 P2 SPRITE1_30
+  - first:
+      213: -5055880109378040572
+    second: RGP2 P2 SPRITE1_31
+  - first:
+      213: -3267390464022185846
+    second: RGP2 P2 SPRITE1_32
+  - first:
+      213: -3320189044689849173
+    second: RGP2 P2 SPRITE1_33
+  - first:
+      213: 8807143615227101748
+    second: RGP2 P2 SPRITE1_34
+  - first:
+      213: 8692675181797173254
+    second: RGP2 P2 SPRITE1_35
+  - first:
+      213: -3946887308681953451
+    second: RGP2 P2 SPRITE1_36
+  - first:
+      213: -7174916570433337934
+    second: RGP2 P2 SPRITE1_37
+  - first:
+      213: 7171961932511302016
+    second: RGP2 P2 SPRITE1_38
+  - first:
+      213: 728122057457361180
+    second: RGP2 P2 SPRITE1_39
+  - first:
+      213: -6894472777376239855
+    second: RGP2 P2 SPRITE1_40
+  - first:
+      213: 2187418386312636210
+    second: RGP2 P2 SPRITE1_41
+  - first:
+      213: -8598514225174118316
+    second: RGP2 P2 SPRITE1_42
+  - first:
+      213: 8800518307852166702
+    second: RGP2 P2 SPRITE1_43
+  - first:
+      213: 1570977856559456275
+    second: RGP2 P2 SPRITE1_44
+  - first:
+      213: 2016347254628944563
+    second: RGP2 P2 SPRITE1_45
+  - first:
+      213: -2963851521548893585
+    second: RGP2 P2 SPRITE1_46
+  - first:
+      213: -4505724921976386575
+    second: RGP2 P2 SPRITE1_47
+  - first:
+      213: 3842428469581468262
+    second: RGP2 P2 SPRITE1_48
+  - first:
+      213: -2743368423749853479
+    second: RGP2 P2 SPRITE1_49
+  - first:
+      213: -2091352220542677452
+    second: RGP2 P2 SPRITE1_50
+  - first:
+      213: -2918069502292190983
+    second: RGP2 P2 SPRITE1_51
+  - first:
+      213: -3615444112303465774
+    second: RGP2 P2 SPRITE1_52
+  - first:
+      213: 8269473973723935823
+    second: RGP2 P2 SPRITE1_53
+  - first:
+      213: 7665233325916789497
+    second: RGP2 P2 SPRITE1_54
+  - first:
+      213: -6869658089573486190
+    second: RGP2 P2 SPRITE1_55
+  - first:
+      213: 5104584319388653849
+    second: RGP2 P2 SPRITE1_56
+  - first:
+      213: 5413888325272787539
+    second: RGP2 P2 SPRITE1_57
+  - first:
+      213: 2948048568494916586
+    second: RGP2 P2 SPRITE1_58
+  - first:
+      213: 3567559262432693944
+    second: RGP2 P2 SPRITE1_59
+  - first:
+      213: -7354142809931139333
+    second: RGP2 P2 SPRITE1_60
+  - first:
+      213: -6920012363106363127
+    second: RGP2 P2 SPRITE1_61
+  - first:
+      213: 1818323386757905924
+    second: RGP2 P2 SPRITE1_62
+  - first:
+      213: 6125445668621450473
+    second: RGP2 P2 SPRITE1_63
+  - first:
+      213: 9208481401240371798
+    second: RGP2 P2 SPRITE1_64
+  - first:
+      213: -7622434117160509886
+    second: RGP2 P2 SPRITE1_65
+  - first:
+      213: -2106852830682124649
+    second: RGP2 P2 SPRITE1_66
+  - first:
+      213: -3886908510990324583
+    second: RGP2 P2 SPRITE1_67
+  - first:
+      213: -35434084584026430
+    second: RGP2 P2 SPRITE1_68
+  - first:
+      213: -173457396625152751
+    second: RGP2 P2 SPRITE1_69
+  - first:
+      213: -1000513165807208246
+    second: RGP2 P2 SPRITE1_70
+  - first:
+      213: -5914350765291845747
+    second: RGP2 P2 SPRITE1_71
+  - first:
+      213: 6280280528599095576
+    second: RGP2 P2 SPRITE1_72
+  - first:
+      213: -9192080563425283799
+    second: RGP2 P2 SPRITE1_73
+  - first:
+      213: 8480576441855093212
+    second: RGP2 P2 SPRITE1_74
+  - first:
+      213: 6415564669397143886
+    second: RGP2 P2 SPRITE1_75
+  - first:
+      213: 2274791376230500485
+    second: RGP2 P2 SPRITE1_76
+  - first:
+      213: 2926396461622579901
+    second: RGP2 P2 SPRITE1_77
+  - first:
+      213: 6231356136838521230
+    second: RGP2 P2 SPRITE1_78
+  - first:
+      213: -7830894038304352416
+    second: RGP2 P2 SPRITE1_79
+  - first:
+      213: -621562848951145941
+    second: RGP2 P2 SPRITE1_80
+  - first:
+      213: 5754750726621413692
+    second: RGP2 P2 SPRITE1_81
+  - first:
+      213: 8217680929301935766
+    second: RGP2 P2 SPRITE1_82
+  - first:
+      213: -7309854372322163575
+    second: RGP2 P2 SPRITE1_83
+  - first:
+      213: -4085555368577459873
+    second: RGP2 P2 SPRITE1_84
+  - first:
+      213: 5929912244190042898
+    second: RGP2 P2 SPRITE1_85
+  - first:
+      213: -7464173861259423369
+    second: RGP2 P2 SPRITE1_86
+  - first:
+      213: -5547523981733840089
+    second: RGP2 P2 SPRITE1_87
+  - first:
+      213: -7751605650713858621
+    second: RGP2 P2 SPRITE1_88
+  - first:
+      213: 5458242637712334228
+    second: RGP2 P2 SPRITE1_89
+  - first:
+      213: -1601647258516222839
+    second: RGP2 P2 SPRITE1_90
+  - first:
+      213: -5131291340739265780
+    second: RGP2 P2 SPRITE1_91
+  - first:
+      213: 5195272876157506657
+    second: RGP2 P2 SPRITE1_92
+  - first:
+      213: 285408601293796683
+    second: RGP2 P2 SPRITE1_93
+  - first:
+      213: 5981854006780119690
+    second: RGP2 P2 SPRITE1_94
+  - first:
+      213: -3206507192627532835
+    second: RGP2 P2 SPRITE1_95
+  - first:
+      213: -1663557824938158625
+    second: RGP2 P2 SPRITE1_96
+  - first:
+      213: 7910839364877079515
+    second: RGP2 P2 SPRITE1_97
+  - first:
+      213: -9062103835019331680
+    second: RGP2 P2 SPRITE1_98
+  - first:
+      213: -3249095311836477217
+    second: RGP2 P2 SPRITE1_99
+  - first:
+      213: -300330956222081424
+    second: RGP2 P2 SPRITE1_100
+  - first:
+      213: 2720975639693481937
+    second: RGP2 P2 SPRITE1_101
+  - first:
+      213: -4158485974348109195
+    second: RGP2 P2 SPRITE1_102
+  - first:
+      213: 382219481334579674
+    second: RGP2 P2 SPRITE1_103
+  - first:
+      213: 2991876267730288350
+    second: RGP2 P2 SPRITE1_104
+  - first:
+      213: 6173176865152152552
+    second: RGP2 P2 SPRITE1_105
+  - first:
+      213: 7618686072592634789
+    second: RGP2 P2 SPRITE1_106
+  - first:
+      213: -5860355856413160500
+    second: RGP2 P2 SPRITE1_107
+  - first:
+      213: -5605566362181383256
+    second: RGP2 P2 SPRITE1_108
+  - first:
+      213: -4215606373511162597
+    second: RGP2 P2 SPRITE1_109
+  - first:
+      213: 11526236094861153
+    second: RGP2 P2 SPRITE1_110
+  - first:
+      213: -8392900819175961053
+    second: RGP2 P2 SPRITE1_111
+  - first:
+      213: 838193316555195244
+    second: RGP2 P2 SPRITE1_112
+  - first:
+      213: -5737312746560855805
+    second: RGP2 P2 SPRITE1_113
+  - first:
+      213: 6613128428376327252
+    second: RGP2 P2 SPRITE1_114
+  - first:
+      213: 6917019209817341572
+    second: RGP2 P2 SPRITE1_115
+  - first:
+      213: 4997732454012645284
+    second: RGP2 P2 SPRITE1_116
+  - first:
+      213: 8723950596399121210
+    second: RGP2 P2 SPRITE1_117
+  - first:
+      213: 155802056066293181
+    second: RGP2 P2 SPRITE1_118
+  - first:
+      213: 917353429262120803
+    second: RGP2 P2 SPRITE1_119
+  - first:
+      213: 6714520154547073844
+    second: RGP2 P2 SPRITE1_120
+  - first:
+      213: 4737341725131335248
+    second: RGP2 P2 SPRITE1_121
+  - first:
+      213: -127759829947617677
+    second: RGP2 P2 SPRITE1_122
+  - first:
+      213: -9172523264556762044
+    second: RGP2 P2 SPRITE1_123
+  - first:
+      213: -7288438041142938635
+    second: RGP2 P2 SPRITE1_124
+  - first:
+      213: 6525789732574847804
+    second: RGP2 P2 SPRITE1_125
+  - first:
+      213: 8004121258405065961
+    second: RGP2 P2 SPRITE1_126
+  - first:
+      213: 2549184057707321090
+    second: RGP2 P2 SPRITE1_127
+  - first:
+      213: 6712374268458844803
+    second: RGP2 P2 SPRITE1_128
+  - first:
+      213: 6574219171330563919
+    second: RGP2 P2 SPRITE1_129
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RGP2 P2 SPRITE1_0
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 552
+        width: 12
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a67723ba5705cc2b0800000000000000
+      internalID: -5562982973395798166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RGP2 P2 SPRITE1_1
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 551
+        width: 12
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57144ab42d0b218e0800000000000000
+      internalID: -1724121290070802059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RGP2 P2 SPRITE1_2
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 551
+        width: 12
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 290ef9e88d6d5a530800000000000000
+      internalID: 3865732080761561234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RGP2 P2 SPRITE1_3
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 551
+        width: 12
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b308c2184c72cc050800000000000000
+      internalID: 5822072143217459259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RGP2 P2 SPRITE1_4
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 551
+        width: 12
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85d2c27be84eb8210800000000000000
+      internalID: 1336413016055098712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RGP2 P2 SPRITE1_5
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 551
+        width: 12
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6a305a0d98ca5330800000000000000
+      internalID: 3700490620646734445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RGP2 P2 SPRITE1_6
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 551
+        width: 12
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b371b132647ef080800000000000000
+      internalID: -9151749427680939079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RGP2 P2 SPRITE1_7
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 551
+        width: 12
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2760d08dd225fd30800000000000000
+      internalID: 4464512940351973162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RGP2 P2 SPRITE1_8
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 551
+        width: 12
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0485fe855c70cad60800000000000000
+      internalID: 7902699990310410304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RGP2 P2 SPRITE1_9
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 551
+        width: 7
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b9b24169d51ca840800000000000000
+      internalID: 5236584490108893620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RGP2 P2 SPRITE1_10
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 551
+        width: 7
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42f8f9a09a8c22d80800000000000000
+      internalID: -8276832536800293084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RGP2 P2 SPRITE1_11
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 551
+        width: 7
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff3f068f4b4165df0800000000000000
+      internalID: -191943166622895105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RGP2 P2 SPRITE1_12
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 561
+        width: 21
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.75}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31f424388966b88c0800000000000000
+      internalID: -3995987439137960173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RGP2 P2 SPRITE1_13
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 561
+        width: 21
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.75}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e15eedd7d0fb51450800000000000000
+      internalID: 6058958938364110110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RGP2 P2 SPRITE1_14
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 560
+        width: 21
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.767}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f110538a7d59b870800000000000000
+      internalID: 8699086936013279736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RGP2 P2 SPRITE1_15
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 556
+        width: 21
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5, y: 0.794}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb5a630151f1e9e10800000000000000
+      internalID: 2206235042784912827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RGP2 P2 SPRITE1_16
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 554
+        width: 21
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.805}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e050f5200521aebc0800000000000000
+      internalID: -3753167204613421810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RGP2 P2 SPRITE1_17
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 551
+        width: 21
+        height: 39
+      alignment: 9
+      pivot: {x: 0.5, y: 0.822}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a191040a9c486a510800000000000000
+      internalID: 1560080322442303770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RGP2 P2 SPRITE1_18
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 549
+        width: 22
+        height: 41
+      alignment: 9
+      pivot: {x: 0.476, y: 0.83}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e61d41af98825e860800000000000000
+      internalID: 7558492122682544494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RGP2 P2 SPRITE1_19
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 515
+        width: 12
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb1549b0b60a9e220800000000000000
+      internalID: 2515718248479347132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RGP2 P2 SPRITE1_20
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 515
+        width: 12
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f3c909221cdb8c50800000000000000
+      internalID: 6668665643808179186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RGP2 P2 SPRITE1_21
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 515
+        width: 12
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66089bb1991c8b7d0800000000000000
+      internalID: -2902357096500985754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RGP2 P2 SPRITE1_22
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 515
+        width: 12
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 811873fc31b837fe0800000000000000
+      internalID: -1192456559125888744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RGP2 P2 SPRITE1_23
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 515
+        width: 12
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e1a7a728a744e260800000000000000
+      internalID: 7125899297952342497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RGP2 P2 SPRITE1_24
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 515
+        width: 12
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62d993cce173f55e0800000000000000
+      internalID: -1918754310821667546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RGP2 P2 SPRITE1_25
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 515
+        width: 12
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9d3d8f1dddf87740800000000000000
+      internalID: 5150145300057111966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RGP2 P2 SPRITE1_26
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 515
+        width: 12
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86d3ce56c541acd30800000000000000
+      internalID: 4452393568688684392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RGP2 P2 SPRITE1_27
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 515
+        width: 12
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5922bbe8bfb629dc0800000000000000
+      internalID: -3633723221158976875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RGP2 P2 SPRITE1_28
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 527
+        width: 7
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e19a24e5a469f120800000000000000
+      internalID: 2448098536112951780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RGP2 P2 SPRITE1_29
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 527
+        width: 7
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b299205d04e2e2a0800000000000000
+      internalID: -6709549748998008139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RGP2 P2 SPRITE1_30
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 527
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b5929f959a9e37d0800000000000000
+      internalID: -2936739939580996167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RGP2 P2 SPRITE1_31
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 527
+        width: 7
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40d0f85e3d7e5d9b0800000000000000
+      internalID: -5055880109378040572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RGP2 P2 SPRITE1_32
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 527
+        width: 7
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8875713fa5e7a2d0800000000000000
+      internalID: -3267390464022185846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RGP2 P2 SPRITE1_33
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 536
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba43e1ca7a15ce1d0800000000000000
+      internalID: -3320189044689849173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RGP2 P2 SPRITE1_34
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 513
+        width: 25
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 432067fa472493a70800000000000000
+      internalID: 8807143615227101748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RGP2 P2 SPRITE1_35
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 513
+        width: 25
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 608efd6a50692a870800000000000000
+      internalID: 8692675181797173254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RGP2 P2 SPRITE1_36
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 513
+        width: 27
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55fb38d77e6d939c0800000000000000
+      internalID: -3946887308681953451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RGP2 P2 SPRITE1_37
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 513
+        width: 28
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b5c14eb4639d6c90800000000000000
+      internalID: -7174916570433337934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RGP2 P2 SPRITE1_38
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 513
+        width: 28
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 081d5f1016de78360800000000000000
+      internalID: 7171961932511302016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RGP2 P2 SPRITE1_39
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 513
+        width: 27
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c116fdb472fca1a00800000000000000
+      internalID: 728122057457361180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RGP2 P2 SPRITE1_40
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 513
+        width: 27
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11f63e69989e150a0800000000000000
+      internalID: -6894472777376239855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RGP2 P2 SPRITE1_41
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 513
+        width: 26
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 237a253de654b5e10800000000000000
+      internalID: 2187418386312636210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RGP2 P2 SPRITE1_42
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 480
+        width: 12
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4508a5c7ed0fba880800000000000000
+      internalID: -8598514225174118316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RGP2 P2 SPRITE1_43
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 480
+        width: 12
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e26a9da16c8b12a70800000000000000
+      internalID: 8800518307852166702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RGP2 P2 SPRITE1_44
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 480
+        width: 12
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3102b32890c3dc510800000000000000
+      internalID: 1570977856559456275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RGP2 P2 SPRITE1_45
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 480
+        width: 12
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ba0eff15218bfb10800000000000000
+      internalID: 2016347254628944563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RGP2 P2 SPRITE1_46
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 480
+        width: 12
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f62c31b8eb84ed6d0800000000000000
+      internalID: -2963851521548893585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RGP2 P2 SPRITE1_47
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 480
+        width: 12
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0.47}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fb09f94e037871c0800000000000000
+      internalID: -4505724921976386575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RGP2 P2 SPRITE1_48
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 480
+        width: 12
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6625044c55c035530800000000000000
+      internalID: 3842428469581468262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RGP2 P2 SPRITE1_49
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 480
+        width: 12
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dedd5e14f89de9d0800000000000000
+      internalID: -2743368423749853479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RGP2 P2 SPRITE1_50
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 480
+        width: 12
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43e44526c360af2e0800000000000000
+      internalID: -2091352220542677452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RGP2 P2 SPRITE1_51
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 480
+        width: 11
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f819fd8f3fe087d0800000000000000
+      internalID: -2918069502292190983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RGP2 P2 SPRITE1_52
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 481
+        width: 11
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dadfdc3cbc53ddc0800000000000000
+      internalID: -3615444112303465774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RGP2 P2 SPRITE1_53
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 482
+        width: 11
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f44372bf3c213c270800000000000000
+      internalID: 8269473973723935823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RGP2 P2 SPRITE1_54
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 482
+        width: 11
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fa91c70911606a60800000000000000
+      internalID: 7665233325916789497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RGP2 P2 SPRITE1_55
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 485
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29175925d521aa0a0800000000000000
+      internalID: -6869658089573486190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RGP2 P2 SPRITE1_56
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 485
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 919903ba46027d640800000000000000
+      internalID: 5104584319388653849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RGP2 P2 SPRITE1_57
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 485
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35ad4817fbef12b40800000000000000
+      internalID: 5413888325272787539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RGP2 P2 SPRITE1_58
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 485
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae30db9bd8299e820800000000000000
+      internalID: 2948048568494916586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RGP2 P2 SPRITE1_59
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 485
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8be84785f34828130800000000000000
+      internalID: 3567559262432693944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RGP2 P2 SPRITE1_60
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 439
+        width: 12
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf6bf8a0416d0f990800000000000000
+      internalID: -7354142809931139333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RGP2 P2 SPRITE1_61
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 439
+        width: 12
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 909dbb76b6d27ff90800000000000000
+      internalID: -6920012363106363127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RGP2 P2 SPRITE1_62
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 439
+        width: 12
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40e7d728c7bfb3910800000000000000
+      internalID: 1818323386757905924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RGP2 P2 SPRITE1_63
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 439
+        width: 12
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ecf221b164f10550800000000000000
+      internalID: 6125445668621450473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RGP2 P2 SPRITE1_64
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 439
+        width: 12
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65249b9bb091bcf70800000000000000
+      internalID: 9208481401240371798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RGP2 P2 SPRITE1_65
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 439
+        width: 12
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24e54da4e8ca73690800000000000000
+      internalID: -7622434117160509886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RGP2 P2 SPRITE1_66
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 439
+        width: 12
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79e6a295384f2c2e0800000000000000
+      internalID: -2106852830682124649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RGP2 P2 SPRITE1_67
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 439
+        width: 12
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99caaff8d4dee0ac0800000000000000
+      internalID: -3886908510990324583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RGP2 P2 SPRITE1_68
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 439
+        width: 12
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ce8d6743ec128ff0800000000000000
+      internalID: -35434084584026430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RGP2 P2 SPRITE1_69
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 467
+        width: 11
+        height: 13
+      alignment: 9
+      pivot: {x: 0.17917424, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1156e72ba61c79df0800000000000000
+      internalID: -173457396625152751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RGP2 P2 SPRITE1_70
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 467
+        width: 9
+        height: 14
+      alignment: 9
+      pivot: {x: 0.22021484, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac8b5fe93967d12f0800000000000000
+      internalID: -1000513165807208246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RGP2 P2 SPRITE1_71
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 467
+        width: 8
+        height: 15
+      alignment: 9
+      pivot: {x: 0.23936844, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8748b580510ceda0800000000000000
+      internalID: -5914350765291845747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RGP2 P2 SPRITE1_72
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 467
+        width: 8
+        height: 14
+      alignment: 9
+      pivot: {x: 0.3684883, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81993fccdd9082750800000000000000
+      internalID: 6280280528599095576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RGP2 P2 SPRITE1_73
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 467
+        width: 8
+        height: 13
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9217346ed6b2f6080800000000000000
+      internalID: -9192080563425283799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RGP2 P2 SPRITE1_74
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 467
+        width: 8
+        height: 14
+      alignment: 9
+      pivot: {x: 0.3712387, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd9a153875f01b570800000000000000
+      internalID: 8480576441855093212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RGP2 P2 SPRITE1_75
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 467
+        width: 8
+        height: 15
+      alignment: 9
+      pivot: {x: 0.24716187, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4196f0631aa80950800000000000000
+      internalID: 6415564669397143886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RGP2 P2 SPRITE1_76
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 467
+        width: 9
+        height: 14
+      alignment: 9
+      pivot: {x: 0.21612549, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 588475e44bea19f10800000000000000
+      internalID: 2274791376230500485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RGP2 P2 SPRITE1_77
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 467
+        width: 11
+        height: 13
+      alignment: 9
+      pivot: {x: 0.18032283, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db259feb316ac9820800000000000000
+      internalID: 2926396461622579901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RGP2 P2 SPRITE1_78
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 439
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e81e53d24693a7650800000000000000
+      internalID: 6231356136838521230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RGP2 P2 SPRITE1_79
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 439
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 067152dac53135390800000000000000
+      internalID: -7830894038304352416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RGP2 P2 SPRITE1_80
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 439
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2aefaec1e3cf57f0800000000000000
+      internalID: -621562848951145941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RGP2 P2 SPRITE1_81
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 439
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c31c03fbb4bfcdf40800000000000000
+      internalID: 5754750726621413692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RGP2 P2 SPRITE1_82
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 440
+        width: 6
+        height: 2
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6963b8c14411b0270800000000000000
+      internalID: 8217680929301935766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RGP2 P2 SPRITE1_83
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 438
+        width: 10
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 984c6e97d2e2e8a90800000000000000
+      internalID: -7309854372322163575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RGP2 P2 SPRITE1_84
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 436
+        width: 12
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5910c9d9013d47c0800000000000000
+      internalID: -4085555368577459873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RGP2 P2 SPRITE1_85
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 437
+        width: 12
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21bdf20a4c74b4250800000000000000
+      internalID: 5929912244190042898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RGP2 P2 SPRITE1_86
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 437
+        width: 12
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77150e98b6de96890800000000000000
+      internalID: -7464173861259423369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RGP2 P2 SPRITE1_87
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 437
+        width: 12
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72b3bc5a45c3303b0800000000000000
+      internalID: -5547523981733840089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RGP2 P2 SPRITE1_88
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 437
+        width: 12
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cd2a4efab3cc6490800000000000000
+      internalID: -7751605650713858621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RGP2 P2 SPRITE1_89
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 437
+        width: 12
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49d1cbe82c29fbb40800000000000000
+      internalID: 5458242637712334228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RGP2 P2 SPRITE1_90
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 437
+        width: 12
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98c89a4ed4ec5c9e0800000000000000
+      internalID: -1601647258516222839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RGP2 P2 SPRITE1_91
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 437
+        width: 12
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0bb23c56bdf9c8b0800000000000000
+      internalID: -5131291340739265780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RGP2 P2 SPRITE1_92
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 403
+        width: 12
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1641796b721591840800000000000000
+      internalID: 5195272876157506657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RGP2 P2 SPRITE1_93
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 403
+        width: 12
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4535f75c99f5f300800000000000000
+      internalID: 285408601293796683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RGP2 P2 SPRITE1_94
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 403
+        width: 12
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8a4064a680d30350800000000000000
+      internalID: 5981854006780119690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RGP2 P2 SPRITE1_95
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 403
+        width: 12
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddb63b572b23083d0800000000000000
+      internalID: -3206507192627532835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RGP2 P2 SPRITE1_96
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 403
+        width: 12
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd55d3dd8fad9e8e0800000000000000
+      internalID: -1663557824938158625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RGP2 P2 SPRITE1_97
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 403
+        width: 12
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd3dcaa2d72f8cd60800000000000000
+      internalID: 7910839364877079515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RGP2 P2 SPRITE1_98
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 403
+        width: 12
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a7b7fb3390fc3280800000000000000
+      internalID: -9062103835019331680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RGP2 P2 SPRITE1_99
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 403
+        width: 12
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd889904705e8e2d0800000000000000
+      internalID: -3249095311836477217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RGP2 P2 SPRITE1_100
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 403
+        width: 12
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0765457269205dbf0800000000000000
+      internalID: -300330956222081424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RGP2 P2 SPRITE1_101
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 384
+        width: 9
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d7db6e8de8d2c520800000000000000
+      internalID: 2720975639693481937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RGP2 P2 SPRITE1_102
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 384
+        width: 9
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57a6987f9071a46c0800000000000000
+      internalID: -4158485974348109195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RGP2 P2 SPRITE1_103
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 384
+        width: 9
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad18e2bd79aed4500800000000000000
+      internalID: 382219481334579674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RGP2 P2 SPRITE1_104
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 383
+        width: 9
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ede3cf52d97458920800000000000000
+      internalID: 2991876267730288350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RGP2 P2 SPRITE1_105
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 364
+        width: 10
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e3bd07e6a78ba550800000000000000
+      internalID: 6173176865152152552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RGP2 P2 SPRITE1_106
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 368
+        width: 12
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a399141e920bb960800000000000000
+      internalID: 7618686072592634789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RGP2 P2 SPRITE1_107
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 368
+        width: 12
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccb0d19e565dbaea0800000000000000
+      internalID: -5860355856413160500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RGP2 P2 SPRITE1_108
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 368
+        width: 12
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8abcc49d7170532b0800000000000000
+      internalID: -5605566362181383256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RGP2 P2 SPRITE1_109
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 368
+        width: 12
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b159ef9a6582f75c0800000000000000
+      internalID: -4215606373511162597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RGP2 P2 SPRITE1_110
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 368
+        width: 12
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16f0808fc03f82000800000000000000
+      internalID: 11526236094861153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RGP2 P2 SPRITE1_111
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 368
+        width: 12
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32e8ee52c2d668b80800000000000000
+      internalID: -8392900819175961053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RGP2 P2 SPRITE1_112
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 368
+        width: 12
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c630166616cd1ab00800000000000000
+      internalID: 838193316555195244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RGP2 P2 SPRITE1_113
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 368
+        width: 12
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3016bef5478f060b0800000000000000
+      internalID: -5737312746560855805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RGP2 P2 SPRITE1_114
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 368
+        width: 12
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 454886b844d86cb50800000000000000
+      internalID: 6613128428376327252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RGP2 P2 SPRITE1_115
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 50
+        width: 351
+        height: 275
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48e37b9c2503eff50800000000000000
+      internalID: 6917019209817341572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RGP2 P2 SPRITE1_116
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 261
+        width: 27
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4af6dd310338b5540800000000000000
+      internalID: 4997732454012645284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RGP2 P2 SPRITE1_117
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 258
+        width: 31
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a334d6098d2b11970800000000000000
+      internalID: 8723950596399121210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RGP2 P2 SPRITE1_118
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 240
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbd5b1ff425892200800000000000000
+      internalID: 155802056066293181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RGP2 P2 SPRITE1_119
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 200
+        width: 60
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 367b7a465181bbc00800000000000000
+      internalID: 917353429262120803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RGP2 P2 SPRITE1_120
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 200
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 433baf86184ce2d50800000000000000
+      internalID: 6714520154547073844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RGP2 P2 SPRITE1_121
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 145
+        width: 64
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 056e612133b6eb140800000000000000
+      internalID: 4737341725131335248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RGP2 P2 SPRITE1_122
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 145
+        width: 10
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37e686f8c1b1a3ef0800000000000000
+      internalID: -127759829947617677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RGP2 P2 SPRITE1_123
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 145
+        width: 10
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44c761260b6a4b080800000000000000
+      internalID: -9172523264556762044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RGP2 P2 SPRITE1_124
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 125
+        width: 20
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f33b36a7344ada90800000000000000
+      internalID: -7288438041142938635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RGP2 P2 SPRITE1_125
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 59
+        width: 85
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c33e309cf23409a50800000000000000
+      internalID: 6525789732574847804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RGP2 P2 SPRITE1_126
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 58
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e4f26a70e9541f60800000000000000
+      internalID: 8004121258405065961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RGP2 P2 SPRITE1_127
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 440
+        width: 8
+        height: 3
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 207dbb2f465806320800000000000000
+      internalID: 2549184057707321090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RGP2 P2 SPRITE1_128
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 440
+        width: 10
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38246fe55d4272d50800000000000000
+      internalID: 6712374268458844803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RGP2 P2 SPRITE1_129
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 437
+        width: 8
+        height: 2
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4f98be21815c3b50800000000000000
+      internalID: 6574219171330563919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
